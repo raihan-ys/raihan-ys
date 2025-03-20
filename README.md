@@ -1,3 +1,1 @@
-- 👋🏻 Hello! My name is Raihan Yudi Syukma.
-- 👨🏻‍💻 I’m interested in Web Development.
-- 🤓 I’m currently learning Laravel.
+I'm a Fullstack Web Developer who is passionate about creating websites and web applications. I have experience in developing websites using HTML, CSS, JavaScript, PHP, and MySQL. I am also familiar with frameworks such as Bootstrap, jQuery, and Laravel. I am always eager to learn new things and improve my skills.
