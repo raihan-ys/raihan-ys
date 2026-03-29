@@ -1,7 +1,7 @@
 <h1>Raihan Yudi Syukma 🧑🏻‍💻</h1>
 
 <p>
-  Experienced at developing applications using frameworks such as CodeIgniter, Laravel, and React, as well as databases. Proficient in using
+  Entry-level / Junior developer experienced at developing applications using frameworks such as CodeIgniter, Laravel, and React, as well as databases. Proficient in using
   Canva for web design, as well as AI tools such as Copilot and ChatGPT. Looking forward to build helpful, robust, and scalable applications
   from concept to deployment.
 </p>
