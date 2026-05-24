@@ -1,23 +1,23 @@
 <h1>Raihan Yudi Syukma 🧑🏻‍💻</h1>
+<h3>Fullstack Developer from Indonesia</h3>
 
 <p>
-  Entry-level / Junior developer experienced at developing applications using frameworks such as CodeIgniter, Laravel, and React, as well as databases. Proficient in using
-  Canva for web design, as well as AI tools such as Copilot and ChatGPT. Looking forward to build helpful, robust, and scalable applications
-  from concept to deployment.
+  Experienced in developing web applications using PHP (Laravel, CodeIgniter), JavaScript (React, Next.js), and databases (MySQL). Proficient in developing REST APIs, managing databases, integrating front-end and back-end systems, and program documentation. Experienced in developing information systems such as e-libraries, discussion forums, and writing platforms. Currently expanding to <a href="https://www.typescriptlang.org">TypeScript</a>.
 </p>
 
 📚 Some projects that I have worked on:
-<ul>
+<ul type="square">
   <li>Academic Information System</li>
   <li>e-Library for Member Management and Library Book Loans</li>
   <li>Online Discussion Forum (like Stack Overflow)</li>
-  <li>Mini games with React (on progress!)</li>
+  <li>Writing Sharing Platform</li>
 </ul>
 
 ⚙️Tech stack
-<ul>
-  <li>Bootstrap (CSS)</li>
-  <li>React (JavaScript)</li>
-  <li>CodeIgniter & Laravel (PHP)</li>
-  <li>MySQL (Databases)</li>
+<ul type="square">
+  <li>Frontend: React, Next.js, Bootstrap, Tailwind</li>
+  <li>Backend: CodeIgniter, Laravel</li>
+  <li>SQL: SQL Query, Relational Database, Database Design</li>
 </ul>
+
+<img src="https://i.pinimg.com/1200x/ab/0c/55/ab0c5573c50cffb7aa7d292f081c7a3e.jpg" />
