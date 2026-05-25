@@ -20,4 +20,4 @@
   <li>SQL: SQL Query, Relational Database, Database Design</li>
 </ul>
 
-<img src="https://i.pinimg.com/1200x/ab/0c/55/ab0c5573c50cffb7aa7d292f081c7a3e.jpg" />
+<img src="https://i.pinimg.com/1200x/ab/0c/55/ab0c5573c50cffb7aa7d292f081c7a3e.jpg" width="300" />
