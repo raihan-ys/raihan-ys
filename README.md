@@ -5,7 +5,7 @@
   Experienced in developing web applications using PHP (Laravel, CodeIgniter), JavaScript (React, Next.js), and databases (MySQL). Proficient in developing REST APIs, managing databases, integrating front-end and back-end systems, and program documentation. Experienced in developing information systems such as e-libraries, discussion forums, and writing platforms. Currently expanding to <a href="https://www.typescriptlang.org">TypeScript</a>.
 </p>
 
-📚 Some projects that I have worked on:
+**📚 Some projects that I have worked on:**
 <ul type="square">
   <li>Academic Information System</li>
   <li>e-Library for Member Management and Library Book Loans</li>
@@ -13,7 +13,7 @@
   <li>Writing Sharing Platform</li>
 </ul>
 
-⚙️Tech stack
+**⚙️Tech stack**
 <ul type="square">
   <li>Frontend: React, Next.js, Bootstrap, Tailwind</li>
   <li>Backend: CodeIgniter, Laravel</li>
