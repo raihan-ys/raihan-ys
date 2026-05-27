@@ -1,7 +1,8 @@
-<h1>Raihan Yudi Syukma 🧑🏻‍💻</h1>
-<h3>Fullstack Developer from Indonesia</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome!%20^_^&section=header&reversal=false&textBg=false&fontSize=85&fontAlign=50&animation=fadeIn&strokeWidth=3&desc=to%20my%20GitHub%20Profile&descAlignY=70&descSize=30"/>
+</p>
 
-<p>
+<p align="center">
   Experienced in developing web applications using PHP (Laravel, CodeIgniter), JavaScript (React, Next.js), and databases (MySQL). Proficient in developing REST APIs, managing databases, integrating front-end and back-end systems, and program documentation. Experienced in developing information systems such as e-libraries, discussion forums, and writing platforms. Currently expanding to <a href="https://www.typescriptlang.org">TypeScript</a>.
 </p>
 
@@ -20,4 +21,6 @@
   <li>SQL: SQL Query, Relational Database, Database Design</li>
 </ul>
 
-<img src="https://i.pinimg.com/1200x/ab/0c/55/ab0c5573c50cffb7aa7d292f081c7a3e.jpg" width="300" />
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/ab/0c/55/ab0c5573c50cffb7aa7d292f081c7a3e.jpg" width="300" />
+</p>
