@@ -22,6 +22,11 @@
   </a>
 </p>
 
+<!-- Poster -->
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHI5OTgzYmswNWplY3Znd2NrYTA4a3gwZnZoMXNkaDUzc3pqcDFocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtxO3mViMDsQM/giphy.gif"/>
+</p>
+
 <!-- Intro -->
 <p align="center">
   Experienced in developing web applications using PHP (Laravel, CodeIgniter), JavaScript (React, Next.js), and databases (MySQL). Proficient in developing REST APIs, managing databases, integrating front-end and back-end systems, and program documentation. Experienced in developing information systems such as e-libraries, discussion forums, and writing platforms. Currently expanding to <a href="https://www.typescriptlang.org">TypeScript</a>.
